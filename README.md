@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insertnameherex
-- 👀 Pen Testing
-- 🌱 Pen Testing, Web Design, Machine Learning
+- 👀 I'm into: Pen Testing
+- 🌱  I'm learning: Pen Testing, Web Design, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
