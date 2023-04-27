@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @insertnameherex
+- 👋 Hi, I’m @PixlNerd
 - 👀 I'm into: Game Development, Front-End Web Developmet, Data Science, Machine Learning
 - 🌱  I'm learning: Game Development, Front-End Web Development, Data Science, Machine Learning
 <!---
